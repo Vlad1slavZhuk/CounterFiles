@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CounterFiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CounterFiles_jar</output-path>
+    <root id="archive" name="CounterFiles.jar">
+      <element id="module-output" name="CounterFiles" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/jnativehook-2.1.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="CounterFiles" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CounterFiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CounterFiles_jar/CounterFiles.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
